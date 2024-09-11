@@ -2,6 +2,9 @@
 
 
 npm i -D @types/node
+npm add -D @types/styled-components
+npm install @reduxjs/toolkit
+
 
 #compilerOptions agregar: 
     <!-- "paths": {
@@ -14,3 +17,4 @@ npm i -D @types/node
       '@': path.resolve(__dirname, './src')
     }
   } -->
+
